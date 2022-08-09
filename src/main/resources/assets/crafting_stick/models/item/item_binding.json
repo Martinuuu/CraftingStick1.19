@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "crafting-stick:item/item_binding"
+  }
+}
