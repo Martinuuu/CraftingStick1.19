@@ -7,6 +7,7 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 import tk.martinuuu.craftingstick.CraftingStick;
 
+//Add Items here
 public class ModItems {
 
     public static final Item item_binding = registerItem("item_binding",
