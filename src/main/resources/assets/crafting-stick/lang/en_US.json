@@ -1,4 +1,6 @@
 {
   "item.crafting-stick.item_binding" : "Item Binding",
-  "item.crafting-stick.compacted_crafting_table" : "Compacted Crafting Table"
+  "item.crafting-stick.compacted_crafting_table" : "Compacted Crafting Table",
+
+  "itemGroup.crafting.stick.crafting_stick": "Crafting Stick Tab"
 }

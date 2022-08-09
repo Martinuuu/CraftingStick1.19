@@ -10,10 +10,10 @@ import tk.martinuuu.craftingstick.CraftingStick;
 public class ModItems {
 
     public static final Item item_binding = registerItem("item_binding",
-            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+            new Item(new FabricItemSettings().group(ModItemGroup.Crafting_Stick)));
 
     public static final Item compacted_crafting_table = registerItem("compacted_crafting_table",
-            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+            new Item(new FabricItemSettings().group(ModItemGroup.Crafting_Stick)));
 
 
     private static Item registerItem(String name, Item item) {
